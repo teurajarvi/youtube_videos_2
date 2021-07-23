@@ -7,6 +7,8 @@ React components are refactored to use hooks.
 Search.js is refactored from class component to
 function component.
 
+To see the outcome please visit: https://youtube-videos-2.vercel.app/
+
 ## Clone the project using Git
 
 git clone https://github.com/teurajarvi/youtube_videos_2.git
